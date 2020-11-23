@@ -1,3 +1,5 @@
+This is a small application that allow user to search video on youtube by entering the keyword of the video.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
